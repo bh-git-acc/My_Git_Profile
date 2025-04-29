@@ -45,7 +45,7 @@ I bring **precision, persistence, and passion** to the table.
 | 📮 Postman | API Testing            |
 | 🗄️ SQL/Oracle | Database Validation  |
 | 🤖 Selenium | Automation tool (BDD) |
-| 🔠 Java     | Commuting language    |
+| 🔠 Java     | Programming language    |
 
 ----------------------------------------------
 
